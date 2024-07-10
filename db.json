@@ -11,11 +11,6 @@
   ],
   "albums": [
     {
-      "id": "10",
-      "title": "Hiking Trip",
-      "userId": "1"
-    },
-    {
       "id": "8837",
       "userId": "1",
       "title": "Sleek Wooden Tuna"
