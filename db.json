@@ -5,8 +5,12 @@
       "name": "Myra"
     },
     {
-      "id": "c8c7",
-      "name": "Mr. Terrance Block"
+      "id": "174a",
+      "name": "Ivan Roob DVM"
+    },
+    {
+      "id": "4873",
+      "name": "Carrie Green"
     }
   ],
   "albums": [
@@ -24,11 +28,6 @@
       "id": "db78",
       "userId": "1",
       "title": "Small Metal Shirt"
-    },
-    {
-      "id": "0666",
-      "userId": "1",
-      "title": "Elegant Fresh Table"
     }
   ],
   "photos": []
