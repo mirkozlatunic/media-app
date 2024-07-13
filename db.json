@@ -28,7 +28,23 @@
       "id": "db78",
       "userId": "1",
       "title": "Small Metal Shirt"
+    },
+    {
+      "id": "6662",
+      "userId": "e609",
+      "title": "Gorgeous Steel Shirt"
+    },
+    {
+      "id": "898e",
+      "userId": "e609",
+      "title": "Gorgeous Cotton Car"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "9c8b",
+      "albumId": "e609",
+      "url": "https://loremflickr.com/150/150/abstract?lock=46128"
+    }
+  ]
 }
