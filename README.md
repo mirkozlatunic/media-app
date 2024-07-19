@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Frontend Mentor - Social Media Dashboard</h1>
+<h1>Media App</h1>
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindCSS">
